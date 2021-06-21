@@ -1,0 +1,8 @@
+[2021-05-05 13:11:59] [L] galaxy property is null or empty 
+[2021-05-05 13:11:59] [L] Non-GB Project : untitled 
+[2021-05-05 13:11:59] [D] gradle projects loaded 
+[2021-05-05 13:11:59] [I] set common default repository : samsung maven 
+[2021-05-05 13:11:59] [I]     Default Repo : buildscript repository : http://10.252.250.53:8081/lm/content/groups/public/ 
+[2021-05-05 13:11:59] [I]     Default Repo : repository : http://10.252.250.53:8081/lm/content/groups/public/ 
+[2021-05-05 13:11:59] [I] set common default strategy 
+[2021-05-05 13:11:59] [D] gradle projects evaluated 
